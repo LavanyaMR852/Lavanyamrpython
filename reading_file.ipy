@@ -1,0 +1,4 @@
+file = open("/content/drive/MyDrive/shri/lavu.txt","r")
+content = file.read()
+print(content)
+file.close()
